@@ -1,4 +1,4 @@
-# projectLinks
+# Project Links
 
 Wifi Art Projects 
 
@@ -27,6 +27,21 @@ Opting Out
 Media History of Wireless Technologies
 
 * Erik Borns - history of wireless(-ness). spiritual symbolism in wireless communication tec  - http://orf.at/stories/2274986/2274848/ and in English here: http://palais-des-beaux-arts.tumblr.com/ 
+
+
+#Science Links
+
+Research and contacts:
+* Plants and plant research
+** plants as sensors - http://pleased-fp7.eu/?page_id=255 
+** [electrical signals in plants](http://link.springer.com/chapter/10.1007/978-3-540-37843-3_17?no-access=true)
+** [potential variation in a sunflower](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC158572/)
+
+
+* Wifi and health?
+
+
+* Wifi network, operation, design etc.
 
 
 
