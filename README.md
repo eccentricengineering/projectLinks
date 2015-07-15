@@ -31,17 +31,17 @@ Media History of Wireless Technologies
 
 #Science Links
 
-Research and contacts:
-* Plants and plant research  
-** plants as sensors - http://pleased-fp7.eu/?page_id=255   
-** [electrical signals in plants](http://link.springer.com/chapter/10.1007/978-3-540-37843-3_17?no-access=true)  
-** [potential variation in a sunflower](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC158572/)  
 
+Plants and plant research  
+* plants as sensors - http://pleased-fp7.eu/?page_id=255   
+* [electrical signals in plants](http://link.springer.com/chapter/10.1007/978-3-540-37843-3_17?no-access=true)  
+* [potential variation in a sunflower](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC158572/)  
+* robots and soil monitoring  [http://www.plantoidproject.eu/index.php/the-project/project-details](http://www.plantoidproject.eu/index.php/the-project/project-details)
   
-* Wifi and health?  
+Wifi and health?  
 
 
-* Wifi network, operation, design etc.  
+Wifi network, operation, design etc.  
 
 
 
