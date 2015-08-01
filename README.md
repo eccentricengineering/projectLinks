@@ -10,6 +10,10 @@ Wifi Art Projects
 * Sentient City Survival Kit, Mark Shepherd - http://www.andinc.org/v4/sentient-city-survival-kit/
 * Palais Des Beauxarts - http://www.palaisdesbeauxarts.at/en/
 
+Earth/bio Sensing Art Projects
+* Bio-sensing in Art in the 1970s - http://datagarden.org/43/richard-lowenberg-interview/
+* Botanicalls - http://www.botanicalls.com/ 
+* Earth boot computer (and the earth codes) and Martin Howes - http://www.1010.co.uk/org/earthcode.html
 
 Tools
 * Subnodes, Sarah Grant - http://subnod.es/
