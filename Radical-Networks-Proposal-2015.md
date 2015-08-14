@@ -1,6 +1,6 @@
 ##Eccentric WiFi: Networks of others.
 
->Media are not only devices of information; they are also agencies of order.  
+>_Media are not only devices of information; they are also agencies of order._  
 >               John Durham Peters, 2015
 
  
