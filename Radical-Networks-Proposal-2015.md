@@ -1,8 +1,8 @@
 ##Eccentric WiFi: Networks of others.
 
 >Media are not only devices of information; they are also agencies of order.  
+>               John Durham Peters, 2015
 
->                                                           John Durham Peters, 2015   
  
 Technologies are dynamic agents that coproduce our environments and social structures through material, psychological and (more recently) algorithmic interactions. Inevitably, they privilege certain agendas and priorities stemming from the context in which they were made and the perspectives of their makers. If we are to adequately address profound contemporary challenges like global inequality and environmental destabilization, both of which are tightly bound to technological trajectories, it is imperative we re-conceive our technical systems and infrastructures to address the needs and agendas of those currently outside of their scope. This is I call eccentric engineering –experimental systems built with atypical design agendas that attempt to reconfigure structures to intimately connect humans and non-humans societies. Eccentric engineering approaches infrastructures not as services but as negotiations, it privileges empathy over efficiency, co-dependence over independence and intimacy over autonomy. 
 
