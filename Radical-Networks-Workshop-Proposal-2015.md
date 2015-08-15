@@ -1,4 +1,4 @@
-##Exploring Radiotropism Workshop
+##Exploring Radiotropism
 Name : Tega Brain  
 Location : Brooklyn, NY  
 Email : tega.brain@gmail.com  
@@ -8,7 +8,7 @@ Url(s) : [www.tegabrain.com](url to relevant sites)
 ## Type of proposal  
 Workshop  
 
-## Description of your talk / panel / workshop / demo
+## Description of your workshop 
 
 _radiotropism:_
 _– An innate tendency to react in a definite manner to some form of radiation; broadly :  a natural inclination where radiation is the orientating factor:_
