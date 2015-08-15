@@ -21,13 +21,13 @@ This workshop explores our radiotropic interactions and overviews artistic oppor
 1.5-2 hours
 
 ## Workshop technical requirements and materials list
-Equipment:
-*Tbmax router (~$27 each)[http://www.amazon.com/Smallest-Router-Wireless-Support-Mobile/dp/B00PNJRDT4] 
-*an Arduino board (I can provide Arduinos for use in the workshop if required)
-*A sensor
-*Hookup wire
-*Ethernet cable
-
+Equipment:  
+*Tbmax router (~$27 each)[http://www.amazon.com/Smallest-Router-Wireless-Support-Mobile/dp/B00PNJRDT4]   
+*an Arduino board (I can provide Arduinos for use in the workshop if required)  
+*A sensor  
+*Hookup wire  
+*Ethernet cable  
+  
 Ideally each person will be able to connect their router to a modem via ethernet for testing a setup.
 Some basic programming experience experience is recommended.
 **Group size:** Probably 5-8
