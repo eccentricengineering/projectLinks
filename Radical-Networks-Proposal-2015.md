@@ -24,7 +24,7 @@ The _Radiotropism_ project applies an eccentric design approach to network techn
 
 ## Workshop technical requirements and materials list
 
-**Group size:** Probably 5-8
+none.
 
 ## Speaker Bio
 http://payload378.cargocollective.com/1/10/351441/9865351/TegaBrain-headshot-copy.jpg
