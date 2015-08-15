@@ -1,6 +1,6 @@
 Radical Networks 2015 Workshop Proposal
 ***
-###Radiotropic Interventions
+###Exploring Radiotropism
 
 radiotropism: 
 _– An innate tendency to react in a definite manner to some form of radiation; broadly :  a natural inclination where radiation is the orientating factor:_
