@@ -13,9 +13,9 @@ Workshop
 #####radiotropism: 
 _– An innate tendency to react in a definite manner to some form of radiation; broadly :  a natural inclination where radiation is the orientating factor:_
 
-Radiotropism describes a responsiveness to radiation. It is a term that was originally used to describe several fungai species able to source energy from gamma ray emissions at nuclear reactors sites such as Chernobyl. As humans, we are yet to be so talented and remain unable to meet any energy needs from the low level radiation of our wireless communications networks. However, like these fungai species we have nevertheless developed a particular sensitivity to wireless radio signals and network topographies. 
+Radiotropism describes a responsiveness to radiation. It is a term that was originally used to describe several fungai species able to source energy from gamma ray emissions at nuclear reactors sites such as Chernobyl. As humans, we are yet to be so talented to be able to meet any energy needs from the low level radiation of our wireless communications networks, however, like these fungai species we have nevertheless developed behavioural sensitivities to wireless radio signals and network topographies. 
 
-This workshop explores possibilities for experimental radiotropic interaction and overviews practical opportunities for artistic network intervention using domestic network technologies. We will consider some techniques and strategies for creating wireless access points that behave in unexpected and unconventional ways. Participants will step through the basics of programming a small light weight domestic router running OpenWRT. We will setup the router as a wireless access point and to read serial receive data from a companion device. Participants will be able to create wireless networks that are responsive to environmental inputs. Basic scripting will be done in the Python programming language.
+This workshop explores our radiotropic interactions and overviews artistic opportunities for network interventions using domestic wireless technologies. We will consider some techniques and strategies for creating wireless access points that behave in unexpected and unconventional ways. Participants will step through the basics of programming a small light weight domestic router running OpenWRT. We will setup the router as a wireless access point and to read serial receive data from a companion device. Participants will be able to create wireless networks that are responsive to environmental inputs. Basic scripting will be done in the Python programming language.
 
 ## Length of talk / panel / workshop
 1.5-2 hours
@@ -23,11 +23,12 @@ This workshop explores possibilities for experimental radiotropic interaction an
 ## Workshop technical requirements and materials list
 Equipment:
 *Tbmax router (~$27 each)[http://www.amazon.com/Smallest-Router-Wireless-Support-Mobile/dp/B00PNJRDT4] 
-*an Arduino (I can provide Arduinos for use in the workshop if required)
+*an Arduino board (I can provide Arduinos for use in the workshop if required)
+*A sensor
 *Hookup wire
 *Ethernet cable
 
-Ideally each person will be able to connect their router to a modem via an ethernet cable for testing a setup.
+Ideally each person will be able to connect their router to a modem via ethernet for testing a setup.
 Some basic programming experience experience is recommended.
 **Group size:** Probably 5-8
 
