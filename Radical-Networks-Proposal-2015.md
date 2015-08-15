@@ -1,4 +1,4 @@
-##Eccentric WiFi: Network with others
+##Eccentric WiFi: Networks with others
 Name : Tega Brain  
 Location : Brooklyn, NY  
 Email : tega.brain@gmail.com  
