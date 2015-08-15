@@ -10,7 +10,7 @@ Workshop
 
 ## Description of your talk / panel / workshop / demo
 
-#####radiotropism: 
+_radiotropism:_
 _– An innate tendency to react in a definite manner to some form of radiation; broadly :  a natural inclination where radiation is the orientating factor:_
 
 Radiotropism describes a responsiveness to radiation. It is a term that was originally used to describe several fungai species able to source energy from gamma ray emissions at nuclear reactors sites such as Chernobyl. As humans, we are yet to be so talented to be able to meet any energy needs from the low level radiation of our wireless communications networks, however, like these fungai species we have nevertheless developed behavioural sensitivities to wireless radio signals and network topographies. 
