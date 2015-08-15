@@ -1,4 +1,4 @@
-##Exploring Radiotropism
+##Exploring Radiotropism Workshop
 Name : Tega Brain  
 Location : Brooklyn, NY  
 Email : tega.brain@gmail.com  
